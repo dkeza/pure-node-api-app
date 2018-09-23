@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "How to generate cert and pem files in https folder:",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "",
+    "test-watch": ""
+  },
   "directories": {
     "lib": "lib"
   },
