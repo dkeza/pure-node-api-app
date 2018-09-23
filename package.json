@@ -1,6 +1,7 @@
 {
   "name": "pure-node-api-app",
   "version": "1.0.0",
+  "private": true,
   "description": "How to generate cert and pem files in https folder:",
   "main": "index.js",
   "scripts": {
