@@ -1,19 +1,9 @@
 {
   "name": "pure-node-api-app",
   "version": "1.0.0",
-  "private": true,
-  "description": "How to generate cert and pem files in https folder:",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "",
-    "test-watch": ""
-  },
-  "directories": {
-    "lib": "lib"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
